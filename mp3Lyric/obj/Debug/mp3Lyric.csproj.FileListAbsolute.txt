@@ -1,0 +1,14 @@
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\bin\Debug\mp3Lyric.exe.config
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\bin\Debug\mp3Lyric.exe
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\bin\Debug\mp3Lyric.pdb
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\bin\Debug\HtmlAgilityPack.dll
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\bin\Debug\HtmlAgilityPack.pdb
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\bin\Debug\HtmlAgilityPack.xml
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\bin\Debug\Interop.iTunesLib.dll
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\bin\Debug\Interop.Shell32.dll
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\obj\Debug\Interop.iTunesLib.dll
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\obj\Debug\Interop.Shell32.dll
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\obj\Debug\mp3Lyric.csproj.ResolveComReference.cache
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\obj\Debug\mp3Lyric.exe
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\obj\Debug\mp3Lyric.pdb
+E:\プログラミング\C#\mp3Lyric\mp3Lyric\obj\Debug\mp3Lyric.csprojResolveAssemblyReference.cache
