@@ -8,7 +8,7 @@ using System.IO;
 namespace mp3Lyric {
     public static class Logger {
         // ログファイルのパス
-        private static readonly string logPath = System.Environment.CurrentDirectory + "log.txt";
+        private static readonly string logPath = System.Environment.CurrentDirectory + "\\" + "log.txt";
 
         /// <summary>
         /// 指定したファイルへログ情報を追加します。
