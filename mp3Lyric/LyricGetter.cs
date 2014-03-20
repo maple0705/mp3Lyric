@@ -145,7 +145,7 @@ namespace mp3Lyric {
             if (searchRslt == null) {
                 Console.Error.WriteLine("! 該当する曲は見つかりませんでした。");
                 Logger.Write("! 該当する曲は見つかりませんでした。\r\n");
-                ProcessRslt = "該当する曲は見つかりませんでした。";
+                ProcessRslt = "! 該当する曲は見つかりませんでした。";
                 return null;
             }
 
